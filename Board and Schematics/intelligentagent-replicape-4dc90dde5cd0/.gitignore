@@ -1,0 +1,8 @@
+*~
+*.b#*
+*.s#*
+stl/
+*~.*
+*.pyc
+Doc/Literature/h-belt-modelling.pdf
+Seeed
